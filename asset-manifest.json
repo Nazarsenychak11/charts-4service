@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/charts-4service/static/css/main.43e69d1d.chunk.css",
+    "main.css": "/charts-4service/static/css/main.a65c5376.chunk.css",
     "main.js": "/charts-4service/static/js/main.c57a6815.chunk.js",
     "main.js.map": "/charts-4service/static/js/main.c57a6815.chunk.js.map",
     "runtime-main.js": "/charts-4service/static/js/runtime-main.4f64ae97.js",
@@ -8,16 +8,16 @@
     "static/js/2.67b0b4b2.chunk.js": "/charts-4service/static/js/2.67b0b4b2.chunk.js",
     "static/js/2.67b0b4b2.chunk.js.map": "/charts-4service/static/js/2.67b0b4b2.chunk.js.map",
     "index.html": "/charts-4service/index.html",
-    "precache-manifest.1721d456ffc6d2e8eca0e4e2a83aa9c2.js": "/charts-4service/precache-manifest.1721d456ffc6d2e8eca0e4e2a83aa9c2.js",
+    "precache-manifest.d69dc7216bf030f60292a1cd14dd8e03.js": "/charts-4service/precache-manifest.d69dc7216bf030f60292a1cd14dd8e03.js",
     "service-worker.js": "/charts-4service/service-worker.js",
-    "static/css/main.43e69d1d.chunk.css.map": "/charts-4service/static/css/main.43e69d1d.chunk.css.map",
+    "static/css/main.a65c5376.chunk.css.map": "/charts-4service/static/css/main.a65c5376.chunk.css.map",
     "static/js/2.67b0b4b2.chunk.js.LICENSE.txt": "/charts-4service/static/js/2.67b0b4b2.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/charts-4service/static/media/horse.b1d24488.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4f64ae97.js",
     "static/js/2.67b0b4b2.chunk.js",
-    "static/css/main.43e69d1d.chunk.css",
+    "static/css/main.a65c5376.chunk.css",
     "static/js/main.c57a6815.chunk.js"
   ]
 }

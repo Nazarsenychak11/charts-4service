@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c873c11b04c321ef1e27861647c5881",
+    "revision": "c5057ae56c60c12c164434402e5dae99",
     "url": "/charts-4service/index.html"
   },
   {
-    "revision": "59d5ebd362f756e1d114",
-    "url": "/charts-4service/static/css/main.43e69d1d.chunk.css"
+    "revision": "9c4722b3b5af12c94939",
+    "url": "/charts-4service/static/css/main.a65c5376.chunk.css"
   },
   {
     "revision": "c3322222f343851f5b2c",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/charts-4service/static/js/2.67b0b4b2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "59d5ebd362f756e1d114",
+    "revision": "9c4722b3b5af12c94939",
     "url": "/charts-4service/static/js/main.c57a6815.chunk.js"
   },
   {
